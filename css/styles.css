@@ -1,0 +1,168 @@
+body
+{
+    background-color: #050505;
+    margin: 0;
+    text-align: center;
+
+}
+
+
+.c1
+{
+    background-color: #CE1212;
+}
+
+.c2
+{
+    margin-top: 10px;
+    background-color: #FB9300;
+}
+
+.c3
+{
+    top: 50%;
+    bottom: 50%;
+    margin-left: 1%;
+    margin-right: 10px;
+    border-style: solid;
+    border-width: 10px;
+    height: 200px;
+    width: 200px;
+    border-color: #CF0000;
+    position: relative;
+    display: inline-block;
+
+}
+.c4
+{
+    margin-right: 10px;
+    border-style: solid;
+    border-width: 10px;
+    height: 200px;
+    width: 200px;
+    border-color: #1CC5DC;
+    position: relative;
+    display: inline-block;
+}
+
+.c5
+{
+    margin-right: 10px;
+    border-style: solid;
+    border-width: 10px;
+    height: 200px;
+    width: 200px;
+    border-color: #52006A;
+    position: relative;
+    display: inline-block;
+}
+.c6
+{
+    margin-right: 10px;
+    border-style: solid;
+    border-width: 10px;
+    height: 200px;
+    width: 200px;
+    border-color: #04009A;
+    position: relative;
+    display: inline-block;
+}
+.c7
+{
+    margin-right: 10px;
+    border-style: solid;
+    border-width: 10px;
+    height: 200px;
+    width: 200px;
+    border-color: #1F441E;
+    position: relative;
+    display: inline-block;
+}
+.cw1
+{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+}
+
+.cw3
+{
+    font-family: 'Pacifico', cursive, Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    color: #03256C;
+}
+
+.cw4
+{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    color: blanchedalmond;
+}
+
+.s1
+{
+    text-decoration: underline;
+}
+
+.main1
+{
+    padding-top: 20px;
+}
+
+.image1
+{
+    height: 50%;
+    right: 0%;
+    width:max-content;
+    position: absolute;
+}
+
+.txt1
+{
+    position: relative;
+    color:whitesmoke;
+    font-family:'Fira Sans', sans-serif, Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+    bottom: 10%;
+}
+
+.clr1
+{
+    margin-top: 9.375rem;
+    color: #9D0B0B;
+    position: relative;
+}
+.clr2
+{
+    margin-top: 5rem;
+    color: #39A2DB;
+}
+.clr3
+{
+    margin-top: 5rem;
+    color: #3D087B;
+}
+.clr4
+{
+    margin-top: 5rem;
+    color: #3B14A7;
+}
+.clr5
+{
+    margin-top: 5rem;
+    color: #335D2D;
+}
+.cw5
+{
+    font-size: 1.875rem;
+    font-family: 'Acme', sans-serif;
+}
+.cw6
+{
+    color: #F7F6F2;
+    font-family: 'Lato', sans-serif; 
+}
+.cw7
+{
+    color:#FFF600;
+    font-family: 'Satisfy', cursive;
+}
